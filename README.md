@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Trying to learn data science with python
+Trying to learn data science with python :sparkling_heart:
